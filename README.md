@@ -41,8 +41,6 @@ insertion sort algorithm performs better when working with smaller
 collections. 
 
 ---------------------------------------------------------------------------------------
-
----------------------------------------------------------------------------------------
 Merge Sort:
 -----------------
 As mentioned before, according to my data acquired through some tests, we can infer that
