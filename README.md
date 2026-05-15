@@ -42,7 +42,9 @@ collections.
 
 Merge Sort:
 -----------------
-As mentioned before, according to my data acquired through some tests, we can infer that
-merge sort is generally much faster than insertion sort, especially for large collections of data. 
-Merge sort's worst-case complexity as mentioned before is O(n log n). This is due to merge sort's
-divide and conquer approach, where the collection gets partitioned and then the collection is revursively divided and merged back together in sorted order, making the algorithm especially efficient for large collections. 
+As mentioned before, according to the data acquired through some tests I ran, we can infer that
+merge sort is generally much faster than insertion sort, specifically for large collections of data.
+Merge sort's worst-case complexity is O(n log n). This is due to Merge Sort's divide and conquer
+approach where the collections gets partitioned, and then gets recursively divided and merged back
+together in sorted order. This makes the Merge Sort algorithm especially efficient in sorting 
+large collections of data. 
