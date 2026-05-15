@@ -34,10 +34,12 @@ that if a collection is not at least partially sorted, insertion sort's time wil
 piling up due to the sheer amount of shifting that has to happen. This is especially true in the
 instance where the list or collection is fully reversed.
 
-Although, in general insertion sort is slower than merge sort, in very some cases,
-such as when the vector to sort was particularly small (5 elements), then insertion
-sort outperformed merge sort. Hence, we can infer that insertion sort algorithm
-performs better when working with smaller collections. 
+Although in general insertion sort is slower than merge sort, in some cases,
+such as when the vector to sort was particularly small (5 elements), the
+insertion sort outperformed merge sort. Hence, we can infer that the
+insertion sort algorithm performs better when working with smaller
+collections. 
+
 ---------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------
