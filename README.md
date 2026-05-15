@@ -12,71 +12,14 @@ Okay, so I ran several tests on both merge sort and insertion sort algorithms
 Here are my results from them: 
  - All along 10 trials each
 
-# Test Number: 1
-of Elements: 1000
-Stats:
-Insertion Sort Stats:
----------------------------------------
-=======Time Performance=======
-Average Time: 0.977893 ms
--------------------------------
+## Benchmark Results
 
-Merge Sort Stats:
----------------------------------------
-=======Time Performance=======
-Average Time: 0.345661 ms
--------------------------------
-
-=====================================================
-
-# Test Number: 2
-of Elements: 10,000
-Stats:
-Insertion Sort Stats:
----------------------------------------
-=======Time Performance=======
-Average Time: 73.2557 ms
--------------------------------
-
-Merge Sort Stats:
----------------------------------------
-=======Time Performance=======
-Average Time: 4.37239 ms
--------------------------------
-
-=====================================================
-
-# Test Number: 3
-of Elements: 100
-Stats:
-Insertion Sort Stats:
----------------------------------------
-=======Time Performance=======
-Average Time: 0.131144
--------------------------------
-
-Merge Sort Stats:
----------------------------------------
-=======Time Performance=======
-Average Time: 0.0891453
--------------------------------
-
-=====================================================
-# Test Number: 4
-of Elements: 5
-Stats:
-Insertion Sort Stats:
----------------------------------------
-=======Time Performance=======
-Average Time: 0.0003196
--------------------------------
-
-# Merge Sort Stats:
----------------------------------------
-=======Time Performance=======
-Average Time: 0.0029033
-
-=======================================================================================
+| Test # | Number of Elements | Insertion Sort Average Time | Merge Sort Average Time |
+|---|---|---|---|
+| 1 | 1,000 | 0.977893 ms | 0.345661 ms |
+| 2 | 10,000 | 73.2557 ms | 4.37239 ms |
+| 3 | 100 | 0.131144 ms | 0.0891453 ms |
+| 4 | 5 | 0.0003196 ms | 0.0029033 ms |
 
 Analysis:
 --------------------------------------------------------------------------------------
