@@ -12,8 +12,8 @@ Okay, so I ran several tests on both merge sort and insertion sort algorithms
 Here are my results from them: 
  - All along 10 trials each
 
-Test Number: 1
-# of Elements: 1000
+# Test Number: 1
+of Elements: 1000
 Stats:
 Insertion Sort Stats:
 ---------------------------------------
@@ -29,8 +29,8 @@ Average Time: 0.345661 ms
 
 =====================================================
 
-Test Number: 2
-# of Elements: 10,000
+# Test Number: 2
+of Elements: 10,000
 Stats:
 Insertion Sort Stats:
 ---------------------------------------
@@ -46,8 +46,8 @@ Average Time: 4.37239 ms
 
 =====================================================
 
-Test Number: 3
-# of Elements: 100
+# Test Number: 3
+of Elements: 100
 Stats:
 Insertion Sort Stats:
 ---------------------------------------
@@ -62,8 +62,8 @@ Average Time: 0.0891453
 -------------------------------
 
 =====================================================
-Test Number: 4
-# of Elements: 5
+# Test Number: 4
+of Elements: 5
 Stats:
 Insertion Sort Stats:
 ---------------------------------------
@@ -71,7 +71,7 @@ Insertion Sort Stats:
 Average Time: 0.0003196
 -------------------------------
 
-Merge Sort Stats:
+# Merge Sort Stats:
 ---------------------------------------
 =======Time Performance=======
 Average Time: 0.0029033
