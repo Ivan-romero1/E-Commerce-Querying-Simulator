@@ -40,7 +40,6 @@ insertion sort outperformed merge sort. Hence, we can infer that the
 insertion sort algorithm performs better when working with smaller
 collections. 
 
----------------------------------------------------------------------------------------
 Merge Sort:
 -----------------
 As mentioned before, according to my data acquired through some tests, we can infer that
